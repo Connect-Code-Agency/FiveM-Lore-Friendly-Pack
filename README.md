@@ -5,8 +5,6 @@
 ![Car Menu](https://img.shields.io/badge/Wheel%20Packs%20As%20of%20Now-6-brightgreen?style=for-the-badge)
 ==========================
 
-_Tested upon [Build ID 3258](https://zap-hosting.com/guides/docs/fivem-gamebuild/)_
-
 If some Vehicles don't load, it is possible it is due to your Game Build, if so add the following or change the following via the server.cfg
 
 Previous
