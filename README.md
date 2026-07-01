@@ -1,41 +1,41 @@
-# FiveM Lore Friendly Pack
+# Pacote Lore Friendly para FiveM
 ![GitHub Repo stars](https://img.shields.io/github/stars/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/SpiritsCreations/FiveM-Lore-Friendly-Car-Pack?style=for-the-badge&logo=github)
 ![Car Menu](https://img.shields.io/badge/Vehicles%20As%20of%20Now-70-brightgreen?style=for-the-badge)
 ![Car Menu](https://img.shields.io/badge/Wheel%20Packs%20As%20of%20Now-6-brightgreen?style=for-the-badge)
 ==========================
 
-If some Vehicles don't load, it is possible it is due to your Game Build, if so add the following or change the following via the server.cfg
+Se alguns veículos não carregarem, isso pode ocorrer devido à versão (Game Build). Nesse caso, adicione ou altere a seguinte configuração no server.cfg
 
-Previous
+Anterior
 ```
 sv_enforceGameBuild 3095 #mp2023_02 - The Chop Shop
 ```
-Updated
+Atualizado
 ```
 sv_enforceGameBuild 3258 #mp2024_01 - Bottom Dollar Bounties
 ```
 
-A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.com/). This pack features a mixture of add-on/replace aswell as tuning cars. Some also feature custom sounds, Custom sounds built into the FxManifest.
-* Only high quality models and sounds.
+Uma coleção de veículos **Lore-Friendly** de [GTA5-Mods](https://gta5-mods.com/). Este pacote inclui uma mistura de veículos add-on, replace e versões modificadas (tuning). Some also feature custom sounds, Custom sounds built into the FxManifest.
+* Apenas modelos e sons de alta qualidade.
 * **Most** models run at <40 MiB of physical memory.
 * Most handling files are **Lore Friendly**. Feel free to make a PR if you fix handling on one of the featured vehicles.
 
-* # Install
-* Drag and drop
+* # Instalação
+* Arraste e solte.
 * Ensure **Lore-Friendly-Car-Pack**
 
-# Important ⚠️
+# Importante ⚠️
 * All credits to go the original creators of these vehicles. These vehicles may be removed from the pack if the owners will it.
 * Treat all vehicles in this pack as the following: *Modifying this package and it's contents except the text data such as handling, meta files and mod-kit, uploading or hosting it elsewhere as is or in a modified state and selling, paywalling or monetizing in any shape or form is prohibited.*
 * Most of these cannot be used as one of one's or as donator cars.
 
-# Support
-* I will not **Offer Support** on any of the vehicles within this pack, everything on my part is within the README. All Vehicles are tested prior to uploading or updating. If you want to change any **Handling Files**, you need to configure it yourself.*
+# Suporte
+* I will not **Offer Suporte** on any of the vehicles within this pack, everything on my part is within the README. All Vehicles are tested prior to uploading or updating. If you want to change any **Handling Files**, you need to configure it yourself.*
 
-<center><h1>All included cars with pictures and spawn codes</h1></center>
+<center><h1>Todos os veículos incluídos com imagens e códigos de spawn</h1></center>
 
-| Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link | Status | Extra Notes |
+| Nome do Veículo | Código de Spawn  | Imagem | Autor | Autors Download Link | Status | Observações |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **6STR Annis ZR380 Custom** | zr3806str | ![Picture](./Image/zr3806str.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-annis-zr380-custom-add-on-tuning) | ✔️ |
 | **6STR Benefactor Schwartzer 'Aggressor' Custom** | schwarzer2 | ![Picture](./Image/schwarzer2.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-benefactor-schwartzer-aggressor-custom-add-on-tuning) | ✔️ |
@@ -114,8 +114,8 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 
 
 
-# Lore Friendly Rim Pack
-| Rim Set | Link to Picture | Author | Authors Download Link | Status | Extra Notes |
+# Pacote de Rodas Lore Friendly
+| Conjunto de Rodas | Imagem | Autor | Autors Download Link | Status | Observações |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Lore Friendly + Neon Wheels Pack** | ![Picture](./Image/LoreFriendlyNeonWheelsPack.webp) | microoowave | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-neon-wheel-pack-sp-fivem-add-on) | ✔️ |
 | **Lore Friendly Bikes Wheels Pack** | ![Picture](./Image/LoreFriendlyBikesWheelsPack.webp) | Ydrop | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-bikes-wheels-addon) | ✔️ |
